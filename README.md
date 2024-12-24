@@ -24,9 +24,10 @@ Les données proviennent d'un Dataset réduit de **DynamicEarthNet** 🌍.
 
 - **`complet_Multi.py`**  
   Variante avancée de **`complet.py`**, ce script permet de faire de la détection de changement **sémantique** 🔍.
-
+ 
 ### 2. **Gestion des Données** 📦
-Les données nécessaires à l'exécution du projet ne sont pas incluses dans ce dépôt pour des raisons de taille et de confidentialité 🔒. Elles sont disponibles via un lien spécifique fourni séparément. Une fois les données téléchargées, il est essentiel de les placer à la **racine du projet** pour garantir le bon fonctionnement des scripts.
+Les données nécessaires à l'exécution du projet ne sont pas incluses dans ce dépôt pour des raisons de taille et de confidentialité 🔒. Elles sont disponibles via un lien spécifique fourni séparément : [Télécharger les données ici](https://drive.google.com/drive/folders/1u1jiJ_zSPWvr0tMmmT3itWgmGTMJZkAy?usp=share_link). Une fois les données téléchargées, il est essentiel de les placer à la **racine du projet** pour garantir le bon fonctionnement des scripts.
+
 
 ### 3. **Préparation et Exécution** 🔧
 
@@ -35,8 +36,8 @@ Les données nécessaires à l'exécution du projet ne sont pas incluses dans ce
 - Installez les dépendances requises avec `pip` ou `conda`.
 
 #### Placer les données 📂
-- Téléchargez les données via le lien fourni.  
-- Déplacez-les à la racine du projet pour que les scripts puissent y accéder correctement.
+- Téléchargez les données via ce [lien](https://drive.google.com/drive/folders/1u1jiJ_zSPWvr0tMmmT3itWgmGTMJZkAy?usp=share_link).  
+- Déplacez-les à la racine du projet pour que les scripts puissent y accéder correctement et dezipper et mettez à la racine les dossiers de IMGetLabel
 
 #### Exécution des scripts 🎬
 - Exécutez **`Application.py`** pour démarrer l'interface utilisateur.
